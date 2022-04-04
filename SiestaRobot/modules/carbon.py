@@ -47,8 +47,6 @@ async def repo(_, message):
                         "Repo", url="https://github.com/jookalem"), 
                     InlineKeyboardButton(
                         "Support", url="https://t.me/JoniSupport")
-                    InlineKeyboardButton(
-                        "Updates", url="https://t.me/ProjectJoni")
                 ]
             ]
         )
