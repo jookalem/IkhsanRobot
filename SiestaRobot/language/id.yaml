@@ -682,54 +682,54 @@ tools_help: |
     ──「 Alat 」──
 
     *Bot Info Sangmata*
-    ❂ /sg <reply>*:* Untuk memeriksa nama riwayat
+    ❂ /sg <reply> *:* Untuk Memeriksa Riwayat Nama.
 
     *Tanggal-waktu-Cuaca*
-    ❂ /time <kode negara>*:* Memberikan informasi tentang zona waktu.
-    ❂ /weather <city>*:* Dapatkan info cuaca di tempat tertentu.
-    ❂ /wttr <city>*:* Modul cuaca lanjutan, penggunaannya sama dengan /weather
-    ❂ /wttr moon*:* Dapatkan status bulan saat ini
+    ❂ /time <kode negara> *:* Memberikan informasi tentang zona waktu.
+    ❂ /weather <city> *:* Dapatkan info cuaca di tempat tertentu.
+    ❂ /wttr <city> *:* Modul cuaca lanjutan, penggunaannya sama dengan /weather
+    ❂ /wttr moon *:* Dapatkan status bulan saat ini
 
     *Mengkonversi*
-    ❂ /encrypt*:* Mengenkripsi Teks yang Diberikan
-    ❂ /decrypt*:* Mendekripsi Teks Terenkripsi Sebelumnya
-    ❂ /zip*:* membalas file telegram untuk mengompresnya dalam format .zip
-    ❂ /unzip*:* membalas file telegram untuk mendekompresnya dari format .zip
+    ❂ /encrypt *:* Mengenkripsi Teks Yang Diberikan.
+    ❂ /decrypt *:* Mendekripsi Teks Terenkripsi Sebelumnya.
+    ❂ /zip *:* Membalas File Telegram Untuk Mengompresnya Dalam Format .zip
+    ❂ /unzip *:* Membalas File Telegram Untuk Mendekompresnya Dari Format .zip
 
     *API Acak*
-    ❂ /ptl: dapatkan video acak dari timeline Instagram
-    ❂ /chika: dapatkan video acak dari chikakiku
-    ❂ /wibu:dapatkan video atau foto anime pendek secara acak
-    ❂ /kebenaran: tantangan
-    ❂ /dare: tantangan
+    ❂ /ptl*:* Dapatkan Video Acak Dari Timeline Instagram.
+    ❂ /chika*:* Dapatkan Video Acak Dari Chikakiku.
+    ❂ /wibu*:* Dapatkan Video Atau Foto Anime Pendek Secara Acak.
+    ❂ /kebenaran*:* Untuk Memberi Tantangan.
+    ❂ /dare*:* Untuk Memberi Tantangan.
     Tautan Ke Berkas:
-    ❂ /up: balas tautan unduhan langsung untuk mengunggahnya ke telegram sebagai file
+    ❂ /up: Balas Tautan Unduhan Langsung Untuk Mengunggahnya Ke Telegram Sebagai File.
     
     File Ke Tautan:
-    ❂ /transfersh: balas file telegram untuk mengunggahnya di transfersh dan dapatkan tautan unduhan langsung
-    ❂ /tmpninja: balas file telegram untuk diunggah ke tmpninja dan dapatkan tautan unduhan langsung
+    ❂ /transfersh: Balas File Telegram Untuk Mengunggahnya Di Transfersh Dan Dapatkan Tautan Unduhan Langsung
+    ❂ /tmpninja: Balas File Telegram Untuk Diunggah Ke tmpninja Dan Dapatkan Tautan Unduhan Langsung
     File Atau Teks Ke Telegraf:
-    ❂ /tgm : Dapatkan Tautan Telegraf Media Balasan
-    ❂ /tgt: Dapatkan Tautan Telegraf dari Teks Balasan
+    ❂ /tgm : Dapatkan Tautan Telegraf Media Balasan.
+    ❂ /tgt: Dapatkan Tautan Telegraf Dari Teks Balasan.
 
-    penanda
-    ❂ /tagall : untuk tag semua orang minimal 100 member dulu.
+    *Mentions All*
+    ❂ /tagall *:* Untuk Tag Semua Orang Minimal 100 Member Dulu.
 translator_help: |
     ──「 Penerjemah 」──
 
-    Gunakan modul ini untuk menerjemahkan barang!
+    Gunakan Modul Ini Untuk Menerjemahkan!
 
     *Perintah:*
-    ❂ /tl (atau /tr): sebagai balasan pesan, menerjemahkannya ke bahasa Inggris.
-    ❂ /tl <lang>: diterjemahkan menjadi <lang>
-       misalnya: /tl ja: diterjemahkan ke bahasa Jepang.
-    ❂ /tl <source>//<dest>: menerjemahkan dari <source> ke <lang>.
-       misalnya: /tl ja//en: menerjemahkan dari bahasa Jepang ke bahasa Inggris.
-    ❂ /langs: dapatkan daftar bahasa yang didukung untuk terjemahan.
+    ❂ /tl (atau /tr) *:* Sebagai Balasan Pesan, Menerjemahkannya Ke Bahasa Inggris.
+    ❂ /tl <lang> *:* Diterjemahkan Menjadi <lang>
+       misalnya: /tl id *:* Diterjemahkan Ke Bahasa Indonesia.
+    ❂ /tl <source>//<dest> *:* Menerjemahkan Dari <source> Ke <lang>.
+       misalnya : /tl id//en *:* Menerjemahkan Dari Bahasa Indonesia Ke Bahasa Inggris.
+    ❂ /langs *:* Dapatkan Daftar Bahasa Yang Didukung Untuk Terjemahan.
 
-    Saya dapat mengubah teks menjadi suara dan suara menjadi teks..
-    ❂ /tts <lang code>*:* Membalas pesan apa pun untuk mendapatkan keluaran teks ke ucapan
-    ❂ /stt*:* Ketikkan balasan ke pesan suara (hanya mendukung bahasa Inggris) untuk mengekstrak teks darinya.
+    Saya Dapat Mengubah Teks Menjadi Suara Dan Suara Menjadi Teks!
+    ❂ /tts <lang code> *:* Membalas Pesan Apa Pun Untuk Mendapatkan Keluaran Teks Ke Ucapan.
+    ❂ /stt *:* Ketikkan Balasan Ke Pesan Suara (Hanya Mendukung Bahasa Inggris) Untuk Mengekstrak Teks Darinya.
     
     *Kode Bahasa*
       `af,am,ar,az,be,bg,bn,bs,ca,ceb,co,cs,cy,da,de,el,en,eo,es,
@@ -741,91 +741,91 @@ translator_help: |
 warns_help: |
     ──「 Peringatan 」──
 
-    ❂ /warns <userhandle>: mendapatkan nomor pengguna, dan alasan, dari peringatan.
-    ❂ /warnlist: daftar semua filter peringatan saat ini
-    ❂ /warn <userhandle>: memperingatkan pengguna. Setelah 3 kali peringatan, pengguna akan diblokir dari grup. Bisa juga digunakan sebagai balasan.
-    ❂ /dwarn <userhandle>: memperingatkan pengguna dan menghapus pesan. Setelah 3 kali peringatan, pengguna akan diblokir dari grup. Bisa juga digunakan sebagai balasan.
-    ❂ /resetwarn <userhandle>: mengatur ulang peringatan untuk pengguna. Bisa juga digunakan sebagai balasan.
-    ❂ /addwarn <keyword> <reply message>: mengatur filter peringatan pada kata kunci tertentu. Jika Anda ingin kata kunci Anda menjadi kalimat, lampirkan dengan tanda kutip, seperti: /addwarn "sangat marah" Ini adalah pengguna yang marah.
-    ❂ /nowwarn <keyword>: hentikan filter peringatan
-    ❂ /warnlimit <num>: mengatur batas peringatan
-    ❂ /strongwarn <on/yes/off/no>: Jika disetel ke aktif, melebihi batas peringatan akan mengakibatkan larangan. Lain, hanya akan pukulan.
+    ❂ /warns <userhandle> *:* Mendapatkan Nomor Pengguna, Dan Alasan, Dari Peringatan.
+    ❂ /warnlist *:* Daftar Semua Filter Peringatan Saat Ini.
+    ❂ /warn <userhandle> *:* Memperingatkan Pengguna. Setelah 3 Kali Peringatan, Pengguna Akan Diblokir Dari Grup. Bisa Juga Digunakan Sebagai Balasan.
+    ❂ /dwarn <userhandle> *:* Memperingatkan Pengguna Dan Menghapus Pesan. Setelah 3 Kali Peringatan, Pengguna Akan Diblokir Dari Grup. Bisa Juga Digunakan Sebagai Balasan.
+    ❂ /resetwarn <userhandle> *:* Mengatur Ulang Peringatan Untuk Pengguna. Bisa Juga Digunakan Sebagai Balasan.
+    ❂ /addwarn <keyword> <reply message> *:* Mengatur  Filter Peringatan Pada Kata Kunci Tertentu. Jika Anda Ingin Kata Kunci Anda Menjadi Kalimat, Lampirkan Dengan Tanda Kutip, Seperti : /addwarn "Fuck You" Ini Adalah Pengguna Yang Marah.
+    ❂ /nowwarn <keyword> *:* Menghentikan Filter Peringatan.
+    ❂ /warnlimit <num> *:* Mengatur Batas Peringatan.
+    ❂ /strongwarn <on/yes/off/no> *:* Jika Disetel Ke Aktif, Melebihi Batas Peringatan Akan Mengakibatkan Larangan. Bukan Hanya Pukulan.
 
 # Admin.py Variabel Text
-user_change_info: "Anda kehilangan hak untuk mengubah info obrolan!"
+user_change_info: "Anda Kehilangan Hak Untuk Mengubah Info Obrolan!"
 set_error: "Kesalahan! {}."
-set_sticker: "Anda perlu membalas beberapa stiker untuk mengatur set stiker obrolan!"
-set_sticker_success: "Berhasil mengatur stiker grup baru di {}!"
-set_sticker_restrictions: "Maaf, karena pembatasan telegram, obrolan harus memiliki minimal 100 anggota sebelum mereka dapat memiliki stiker grup!"
-set_chatpic: "Anda hanya dapat mengatur beberapa foto sebagai gambar obrolan!"
+set_sticker: "Anda Perlu Membalas Beberapa Stiker Untuk Mengatur Set Stiker Obrolan!"
+set_sticker_success: "Berhasil Mengatur Stiker Grup Baru Di {}!"
+set_sticker_restrictions: "Maaf, Karena Pembatasan Telegram, Obrolan Harus Memiliki Minimal 100 Anggota Sebelum Mereka Dapat Memiliki Stiker Grup!"
+set_chatpic: "Anda Hanya Dapat Mengatur Beberapa Foto Sebagai Gambar Obrolan!"
 set_chatpic_loading: "Sebentar..."
-set_chatpic_success: "Berhasil mengatur chatpic baru!"
-set_chatpic_none: "Balas beberapa foto atau file untuk mengatur gambar obrolan baru!"
-rm_chatpic: "Anda tidak memiliki cukup hak untuk menghapus foto grup"
-rm_chatpic_success: "Foto profil obrolan berhasil dihapus!"
-set_desc: "Menyetel deskripsi kosong tidak akan menghasilkan apa-apa!"
-set_desc_len: "Deskripsi harus kurang dari 255 karakter!"
-set_desc_success: "Berhasil memperbarui deskripsi obrolan di {}!"
-set_chat_title: "Masukkan beberapa teks untuk menetapkan judul baru dalam obrolan Anda!"
-set_chat_title_success: "Berhasil menetapkan <b>{}</b> sebagai judul obrolan baru!"
-promote_creator: "Anda tidak memiliki hak yang diperlukan untuk melakukan itu!"
-promote_id_error: "Sepertinya Anda tidak merujuk ke pengguna atau ID yang ditentukan salah.."
-promote_admin: "Bagaimana cara saya mempromosikan seseorang yang sudah menjadi admin?"
-promote_self: "Saya tidak dapat mempromosikan diri saya sendiri! Mintalah seorang admin untuk melakukannya untuk saya."
-promote_error1: "Saya tidak dapat mempromosikan seseorang yang tidak ada dalam grup."
-promote_error2: "Terjadi kesalahan saat mempromosikan."
+set_chatpic_success: "Berhasil Mengatur Chatpic Baru!"
+set_chatpic_none: "Balas Beberapa Foto Atau File Untuk Mengatur Gambar Obrolan Baru!"
+rm_chatpic: "Anda Tidak Memiliki Cukup Hak Untuk Menghapus Foto Grup"
+rm_chatpic_success: "Foto Profil Obrolan Berhasil Dihapus!"
+set_desc: "Menyetel Deskripsi Kosong Tidak Akan Menghasilkan Apa-apa!"
+set_desc_len: "Deskripsi Harus Kurang Dari 255 Karakter!"
+set_desc_success: "Berhasil Memperbarui Deskripsi Obrolan Di {}!"
+set_chat_title: "Masukkan Beberapa Teks Untuk Menetapkan Nama Baru Dalam Obrolan Anda!"
+set_chat_title_success: "Berhasil Menetapkan <b>{}</b> Sebagai Nama Obrolan Baru!"
+promote_creator: "Anda Tidak Memiliki Hak Yang Diperlukan Untuk Melakukan Itu!"
+promote_id_error: "Sepertinya Anda Tidak Merujuk Ke Pengguna Atau ID Yang Ditentukan Salah.."
+promote_admin: "Bagaimana Cara Saya Mempromosikan Seseorang Yang Sudah Menjadi Admin?"
+promote_self: "Saya Tidak Dapat Mempromosikan Diri Saya Sendiri! Mintalah Seorang Admin Untuk Melakukannya Untuk Saya."
+promote_error1: "Saya Tidak Dapat Mempromosikan Seseorang Yang Tidak Ada Dalam Grup."
+promote_error2: "Terjadi Kesalahan Saat Mempromosikan."
 promote_success: "Mempromosikan Pengguna Di <b>{}</b>\n\nUser: {}\nAdmin: {}"
-full_promote_success: "Promosi penuh pengguna di <b>{}</b>\n\n<b>Pengguna: {}</b>\n<b> Promotor: {}</b>"
-demote_creator: "Orang ini MENCIPTAKAN obrolan, bagaimana cara menurunkannya?"
-demote_admin: "Tidak dapat menurunkan apa yang tidak dipromosikan!"
-demote_self: "Saya tidak bisa menurunkan diri saya sendiri! Minta admin untuk melakukannya untuk saya."
-demote_success: "Berhasil menurunkan admin di <b>{}</b>\n\nAdmin: <b>{}</b>\nDemoter: {}"
-demote_error: "Tidak dapat menurunkan. Saya mungkin bukan admin, atau status admin ditunjuk oleh pengguna lain, jadi saya tidak dapat menindaklanjutinya!"
+full_promote_success: "Promosi Penuh Pengguna Di <b>{}</b>\n\n<b>Pengguna: {}</b>\n<b> Promotor: {}</b>"
+demote_creator: "Orang Ini Yang Membuat Obrolan, Bagaimana Cara Menurunkannya?"
+demote_admin: "Tidak Dapat Menurunkan Apa Yang Tidak Dipromosikan!"
+demote_self: "Saya Tidak Bisa Menurunkan Diri Saya Sendiri! Minta Admin Untuk Melakukannya Untuk Saya."
+demote_success: "Berhasil Menurunkan Admin Di <b>{}</b>\n\nAdmin: <b>{}</b>\nDemoter: {}"
+demote_error: "Tidak Dapat Menurunkan. Saya Mungkin Bukan Admin, Atau Status Admin Ditunjuk Oleh Pengguna Lain, Jadi Saya Tidak Dapat Menindaklanjutinya!"
 admin_refresh: "✅ List Admin Disegarkan!"
-set_title_creator: "Orang ini MENCIPTAKAN obrolan, bagaimana saya bisa mengatur judul khusus untuknya?"
-set_title_admin: "Tidak dapat menyetel judul untuk non-admin!\nPromosikan mereka terlebih dahulu untuk menyetel judul khusus!"
-set_title_self: "Saya tidak dapat menetapkan judul saya sendiri! Dapatkan orang yang menjadikan saya admin untuk melakukannya untuk saya."
-set_title_none: "Menetapkan judul kosong tidak berarti apa-apa!"
-set_title_len: "Panjang judul lebih dari 16 karakter.\nMemotongnya menjadi 16 karakter."
-set_title_error: "Entah mereka tidak dipromosikan oleh saya atau Anda menetapkan teks judul yang tidak mungkin untuk disetel."
-set_title_success: "Berhasil mengatur judul untuk <code>{}</code> ke <code>{}</code>!"
-pin_none: "Balas pesan untuk menyematkannya!"
-pin_success: "Saya telah menyematkan pesan."
-unpin_creator: "Anda tidak memiliki hak yang diperlukan untuk melakukan itu!"
-unpin_success: "Lepas pin <a href='{}'>pesan ini</a>."
-unpin_last_msg: "Melepas pin dari pesan yang terakhir disematkan."
-unpin_error: "Saya tidak dapat melihat pesan yang disematkan, Mungkin sudah dilepas pinnya, atau sematkan Pesan ke yang lama 🙂"
-pinned: '🔽 Disematkan di {}.'
-pinned_none: "Tidak ada pesan yang dipasangi pin di <b>{}!</b>"
-invite_error1: "Saya tidak memiliki akses ke tautan undangan, coba ubah izin saya!"
-invite_error2: "Saya hanya bisa memberi Anda tautan undangan untuk grup dan saluran super, maaf!"
-list_admin_error: "Perintah ini hanya berfungsi di Grup."
-list_admin_loading: "Mengambil admin grup..."
-list_admin_text: "Admin di <b>{}</b> :"
+set_title_creator: "Orang Ini Yang Membuat Obrolan, Bagaimana Saya Bisa Mengatur Nama Khusus Untuknya?"
+set_title_admin: "Tidak Dapat Menyetel Nama Untuk Non-Admin!\nPromosikan Mereka Terlebih Dahulu Untuk Menyetel Nama Khusus!"
+set_title_self: "Saya Tidak Dapat Menetapkan Nama Saya Sendiri! Dapatkan Orang Yang Menjadikan Saya Admin Untuk Melakukannya Untuk Saya."
+set_title_none: "Menetapkan Nama Kosong Tidak Berarti Apa-apa!"
+set_title_len: "Panjang Nama Lebih Dari 16 Karakter.\nMemotongnya Menjadi 16 Karakter."
+set_title_error: "Entah Mereka Tidak Dipromosikan Oleh Saya Atau Anda Menetapkan Teks Nama Yang Tidak Mungkin Untuk Disetel."
+set_title_success: "Berhasil Mengatur Nama Untuk <code>{}</code> Ke <code>{}</code>!"
+pin_none: "Balas Pesan Untuk Menyematkannya!"
+pin_success: "Saya Telah Menyematkan Pesan."
+unpin_creator: "Anda Tidak Memiliki Hak Yang Diperlukan Untuk Melakukan Itu!"
+unpin_success: "Lepas Pin <a href='{}'>Pesan Ini</a>."
+unpin_last_msg: "Melepas Pin Dari Pesan Yang Terakhir Disematkan."
+unpin_error: "Saya Tidak Dapat Melihat Pesan Yang Disematkan, Mungkin Sudah Dilepas Pinnya, Atau Sematkan Pesan Ke Yang Lama 🙂"
+pinned: '🔽 Disematkan Di {}.'
+pinned_none: "Tidak Ada Pesan Yang Dipasangi Pin Di <b>{}!</b>"
+invite_error1: "Saya Tidak Memiliki Akses Ke Tautan Undangan, Coba Ubah Izin Saya!"
+invite_error2: "Saya Hanya Bisa Memberi Anda Tautan Undangan Untuk Grup Dan Saluran Super, Maaf!"
+list_admin_error: "Perintah Ini Hanya Berfungsi Di Grup."
+list_admin_loading: "Mengambil List Admin Grup..."
+list_admin_text: "Admin Di <b>{}</b> :"
 list_admin_delete_acc: "☠ Akun Dihapus"
 demote_callback_success: "Admin {} Turunkan {}!"
 demote_callback_answer: "Diturunkan!"
-demote_callback_error: "Pengguna ini tidak dipromosikan atau telah meninggalkan grup!" 
+demote_callback_error: "Pengguna Ini Tidak Dipromosikan Atau Telah Meninggalkan Grup!" 
 # Admin.py Variabel Button
 demote_button: "Turunkan"
 pin_button: "👉 Buka pesan"
 
 # Afk.py Variabel
-reason_len: "\nAlasan afk Anda dipersingkat menjadi 100 karakter."
-afk: "{} sekarang pergi! {}"
-afk_array1: "{} ada di sini!"
-afk_array2: "{} kembali!"
-afk_array3: "{} hi sayang!"
-afk_array4: "{} sudah bangun!"
-afk_array5: "{} kembali online!"
-afk_array6: "{} datang lagi!"
+reason_len: "\nAlasan Afk Anda Dipersingkat Menjadi 100 Karakter."
+afk: "{} Sekarang Pergi! {}"
+afk_array1: "{} Ada Disini!"
+afk_array2: "{} Ngapain Sayang?"
+afk_array3: "{} Hi Sayang!"
+afk_array4: "{} Ngapain Ngentot?"
+afk_array5: "{} Kembali Online!"
+afk_array6: "{} Datang Lagi!"
 afk_array7: "Selamat Datang Kembali! {}"
 afk_array8: "Di Mana {}?\nDalam Obrolan!"
-afk_check: "{} Sedang Afk"
-afk_check_reason: "{} Sedang Afk.\nAlasan: <code>{}</code>"
+afk_check: "{} Sedang AFK!"
+afk_check_reason: "{} Sedang AFK.\nAlasan: <code>{}</code>"
 
 # Antichannel.py Variabel
-active_antichannel: "Antichannel diaktifkan di {}"
-disable_antuchannel: "Antichannel dinonaktifkan di {}"
-invalid_antichannel: "Argumen tidak dikenal {}"
-status_antichannel: "Setelan antichannel saat ini {} di {}"
+active_antichannel: "Antichannel Diaktifkan Di {}"
+disable_antuchannel: "Antichannel Dinonaktifkan Di {}"
+invalid_antichannel: "Argumen Tidak Dikenal {}"
+status_antichannel: "Setelan Antichannel Saat Ini {} Di {}"
