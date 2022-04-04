@@ -9,11 +9,11 @@ from SiestaRobot import telethn as tbot, TEMP_DOWNLOAD_DIRECTORY, SUPPORT_CHAT
 @register(pattern="^/kamuii ?(.*)")
 async def _(fry):
     level = fry.pattern_match.group(1)
-    kntl = await fry.reply("`Deepfrying this image...`")
+    kntl = await fry.reply("`Muka Udah Jelek Gua Acak Acak Lagi Ahh...`")
     if fry.fwd_from:
         return
     if not fry.reply_to_msg_id:
-        await kntl.edit("`Reply to a stickers`")
+        await kntl.edit("`Reply stickers`")
         return
     reply_message = await fry.get_reply_message()
     if not reply_message.media:
