@@ -9,8 +9,8 @@ set_chat_lang: "Great, using {} Language it is from now on!"
 
 # PM Text
 pm_start_text: |
-  *Hey Darling, {} ❤️*
-  ✪ I'm Management Robot [✨](https://telegra.ph/file/6d3e3ef24f64fb6e35df0.jpg)
+  *Hey Darling, {} *
+  ✪ I'm Management Robot [✨](https://telegra.ph/file/d1de44f61d3fd69392b22.jpg)
 
   ┏━━━━━━━━•❃°•°❀°•°❃•━━━━━━━━┓
   × *Server Uptime :* `{}`
