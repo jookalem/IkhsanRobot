@@ -31,17 +31,17 @@
       "TOKEN": {
          "description": "Your bot token. Get one from @BotFather duh",
          "required": true,
-         "value": ""
+         "value": "5248640859:AAEDe9oISh2p9M4OnFJqxi1kmQxlVI3A80s"
       },
       "API_ID": {
          "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": ""
+         "value": "16578420"
       },
       "API_HASH": {
          "description": "Get API_HASH from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": ""
+         "value": "08ae9ac0160c119157c5e375474bbb73"
       },    
       "SQLALCHEMY_DATABASE_URI": {
          "description": "Your postgres sql db, empty this field if you dont have one.",
@@ -51,13 +51,13 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "945137470"
+         "value": "860951678"
      },
 
       "STRING_SESSION": {
          "description": "Fill with telethon string session.",
          "required": true,
-         "value": "" 
+         "value": "1BVtsOL0Bu6TpmpbO5cs-3zfUHA55MozJXeU2iAXILjY6byi4C9D9P8XQ9V96We-gLAeA7h7H4LovFbKzseQM18gnfZRbLvx_HzT6ScHGlfKjNLwrJanz2XIuCkD1TA-Ez09HDrmUdzR-WAvdngi-GQcceRzQOxLCwEZfInYMzamvCZKWaf-OYicKSkm_xHp1VkUmfzBNeK5JZflDBInfPwWcXlCgOQuaTSaDHU40JzkD0u2IhBzTfPsqwmxFKlzjL5GM6QH2PU2ZJ3Mou8X214NdsZTAE0EtrXaxDveIsXSsDGuHKO7KpqNrDua2BtDqj_dkFnxm4fh4dQdmZjwgCvBExy4BZVU=" 
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
@@ -74,7 +74,7 @@
 
       "BOT_ID": {
          "description": "to get your bot_id using other bot or userbot",
-         "value": ""
+         "value": "5248640859"
       },
 
       "OWNER_USERNAME": {
@@ -89,7 +89,7 @@
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
          "required": true,
-         "value": ""
+         "value": "mongodb+srv://ikhsanrobot:robot@cluster0.xe46y.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
       },
       "IBM_WATSON_CRED_URL": {
          "description": "This is required for the speech to text module. Get your USERNAME from https://console.bluemix.net/docs/services/speech-to-text/getting-started.html",
