@@ -85,7 +85,7 @@ async def profanity(event):
     input = event.pattern_match.group(2)
     if not event.sender_id == OWNER_ID:
         if not await is_register_admin(event.input_chat, event.sender_id):
-           await event.reply("Only admins can execute this command!")
+           await event.reply("Hanya Admin Yang Dapat Menjalankan Perintah Ini!")
            return
         else:
           if not await can_change_info(message=event):
@@ -153,7 +153,7 @@ async def job_open():
     for pro in chats:
         try:
             await tbot.send_message(
-              int(pro.chat_id), "06:00 Am, Group Is Opening.\n**Powered By @emiexrobot**"
+              int(pro.chat_id), "06:00 Am, Group Is Opening.\n**Powered By @IkhsanRobot**"
             )
             await tbot(
             functions.messages.EditChatDefaultBannedRightsRequest(
