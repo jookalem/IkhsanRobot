@@ -4,12 +4,12 @@ language: "Indonesia 🇮🇩"
 authors: "@saint_foire"
 
 # languages
-curr_chat_lang: "Hai. Bahasa Anda saat ini adalah {}, pilih yang Anda inginkan dari tombol di bawah :)"
-set_chat_lang: "Bagus, menggunakan Bahasa {} mulai sekarang!"
+curr_chat_lang: "Hai. Bahasa Anda Saat Ini Adalah {}, Pilih Yang Anda Inginkan Dari Tombol Di Bawah :)"
+set_chat_lang: "Bagus, Menggunakan Bahasa {} Mulai Sekarang!"
 
 # PM Text
 pm_start_text: |
-  *Hai sayang, {} ❤️*
+  *Hai Friend, {} 🤗*
   ✪ Saya adalah Robot Management [✨](https://telegra.ph/file/6d3e3ef24f64fb6e35df0.jpg)
 
   ┏━━━━━━━━•❃°•°❀°•°❃•━━━━━━━━┓
@@ -17,7 +17,7 @@ pm_start_text: |
   × `{}` *Pengguna, Di Seluruh* `{}` *Obrolan.*
   ┗━━━━━━━━•❃°•°❀°•°❃•━━━━━━━━┛
 
-  ✪ Tekan /help untuk melihat perintah yang tersedia.
+  ✪ Tekan /help Untuk Melihat Perintah Yang Tersedia.
    
 group_start_text: |
   *👋🏻 Hai Sayang, aku Robot Ikhsan!* 
@@ -25,72 +25,72 @@ group_start_text: |
   *Mulai aktif sejak :* `{}`
 
 pm_about_text: |
-  ✺ Hai Sayang saya *Ikhsan Robot*, Bot Management Grup, Yang Dibuat Untuk Membantu Anda Mengelola Grup Anda Dengan Mudah. ✺
+  ✺ Hai Friend Saya *Ikhsan Robot*, Bot Management Grup, Yang Dibuat Untuk Membantu Anda Mengelola Grup Anda Dengan Mudah. ✺
 
-  ✪ Saya dapat membatasi pengguna.
-  ✪ Saya dapat menyapa pengguna dengan pesan selamat datang yang dapat disesuaikan dan bahkan menetapkan aturan grup.
-  ✪ Saya memiliki sistem anti-spam yang canggih.
-  ✪ Saya dapat memperingatkan pengguna hingga mereka mencapai peringatan maksimal, dengan setiap tindakan yang telah ditentukan sebelumnya seperti larangan, bisu, tendangan, dll.
-  ✪ Saya memiliki sistem pencatatan, daftar hitam, dan bahkan balasan yang telah ditentukan sebelumnya untuk kata kunci tertentu.
-  ✪ Saya memeriksa izin admin sebelum menjalankan perintah apa pun dan hal lainnya
+  ✪ Saya Dapat Membatasi Pengguna.
+  ✪ Saya Dapat Menyapa Pengguna Dengan Pesan Selamat Datang Yang Dapat Disesuaikan Dan Bahkan Menetapkan Aturan Grup.
+  ✪ Saya Memiliki Sistem Anti-spam Yang Canggih.
+  ✪ Saya Dapat Memperingatkan Pengguna Hingga Mereka Mencapai Peringatan Maksimal, Dengan Setiap Tindakan Yang Telah Ditentukan Sebelumnya Seperti Larangan, Bisu, Tendangan, Dll.
+  ✪ Saya Memiliki Sistem Pencatatan, Daftar Hitam, Dan Bahkan Balasan Yang Telah Ditentukan Sebelumnya Untuk Kata Kunci Tertentu.
+  ✪ Saya Memeriksa Izin Admin Sebelum Menjalankan Perintah Apa Pun Dan Hal Lainnya.
 
-  _Ikhsan dilisensikan di bawah GNU General Public License v3.0_
-  Klik tombol di bawah untuk mendapatkan bantuan dasar untuk Robot Ikhsan.
+  _Ikhsan Dilisensikan Di Bawah GNU General Public License v3.0_
+  Klik Tombol Di Bawah Untuk Mendapatkan Bantuan Dasar Untuk Robot Ikhsan.
 pm_about_admin_text: |
   *✺ Mari Buat Grup Anda Efektif Sekarang ✺*
 
   Selamat, Robot Ikhsan Sekarang Siap Untuk Mengelola Grup Anda.
 
   *Alat Admin*
-  Alat Admin Dasar membantu Anda melindungi dan memperkuat grup Anda.
-  Anda dapat mencekal anggota, Menendang anggota, Mempromosikan seseorang sebagai admin melalui perintah bot.
+  Alat Admin Dasar Membantu Anda Melindungi Dan Memperkuat Grup Anda.
+  Anda Dapat Mencekal Anggota, Menendang Anggota, Mempromosikan Seseorang Sebagai Admin Melalui Perintah Bot.
 
   *Salam*
-  Mari kita atur pesan selamat datang untuk menyambut pengguna baru yang datang ke grup Anda.
-  Send `/setwelcome [message]` untuk menyetel pesan selamat datang!
+  Mari Kita Atur Pesan Selamat Datang Untuk Menyambut Pengguna Baru Yang Datang Ke Grup Anda.
+  Send `/setwelcome [message]` Untuk Menyetel Pesan Selamat Datang!
 pm_about_notes_text: |
   *✺ Menyiapkan Catatan ✺*
 
-  ✪ Anda dapat menyimpan pesan/media/audio atau apa pun sebagai catatan untuk mendapatkan catatan cukup gunakan # di awal kata"
-  ✪ Anda juga dapat mengatur tombol untuk catatan dan filter (lihat menu bantuan)
+  ✪ Anda Dapat Menyimpan Pesan/Media/Audio Atau Apa Pun Sebagai Catatan Untuk Mendapatkan Catatan Cukup Gunakan # Di Awal Kata"
+  ✪ Anda Juga Dapat Mengatur Tombol Untuk Catatan Dan Filter (Lihat Menu Bantuan)
 pm_about_support_text: |
-  *✺ Obrolan dukungan Robot Ikhsan ✺*
+  *✺ Obrolan Dukungan Ikhsan ✺*
 
-  Bergabunglah dengan Grup/Saluran Dukungan Saya untuk melihat atau melaporkan masalah di Ikhsan.
+  Bergabunglah dengan Grup/Saluran Dukungan Saya Untuk Melihat Atau Melaporkan Masalah Di Ikhsan.
 pm_about_credit_text: |
-  *✺ Credits for Ikhsan ✺*
+  *✺ Credits For Ikhsan ✺*
 
   Disini Developers Membuat Dan Memberi Inspirasi Untuk Membuat Robot Ikhsan
 pm_help_text: |
-  *✺ Klik tombol di bawah ini untuk mendapatkan deskripsi tentang perintah spesifik. ✺*
-pm_help_module_text: "Berikut adalah bantuan untuk modul *{}* :\n\n"
+  *✺ Klik Tombol Di Bawah Ini Untuk Mendapatkan Deskripsi Tentang Perintah Spesifik. ✺*
+pm_help_module_text: "Berikut Adalah Bantuan Untuk Modul *{}* :\n\n"
 
 # Group Help Text
-group_help_text: "Hubungi saya di PM untuk mendapatkan daftar kemungkinan perintah."
-group_help_modules_text: "Hubungi saya di PM untuk mendapatkan bantuan *{}*"
+group_help_text: "Hubungi Saya Di PM Untuk Mendapatkan Daftar Perintah."
+group_help_modules_text: "Hubungi Saya Di PM Untuk Mendapatkan Bantuan *{}*"
 # Group Help Button
 group_help_button: "Bantuan"
 # PM Settings
-pm_settings_personal_text: "Ini adalah pengaturan Anda saat ini: "
-pm_settings_group_text: "Modul mana yang ingin Anda periksa setelan {} ?"
-pm_settings_groups_text: "*{}* memiliki setelan berikut untuk modul *{}*:\n\n"
+pm_settings_personal_text: "Ini Adalah Pengaturan Anda Saat Ini: "
+pm_settings_group_text: "Modul Mana Yang Ingin Anda Periksa Setelan {} ?"
+pm_settings_groups_text: "*{}* Memiliki Setelan Berikut Untuk Modul *{}*:\n\n"
 pm_settings_groupss_text: |
-    Hai, yang di sana! Ada beberapa setelan untuk {} - lanjutkan dan pilih yang Anda minati.
+    Hai, Yang Di Sana! Ada Beberapa Setelan Untuk {} - Lanjutkan Dan Pilih Yang Anda Minati.
 # Group Settings Text
-group_settings_text: "Klik di sini untuk mendapatkan pengaturan obrolan ini, serta pengaturan Anda."
+group_settings_text: "Klik Di Sini Untuk Mendapatkan Pengaturan Obrolan Ini, Serta Pengaturan Anda."
 # Group Settings Button
 group_settings_button: "Pengaturan"
 
 # PM Button
-add_bot_to_group_button: "♕ Tambahkan Saya Ke Grup Anda ♕"
-support_chat_link_button: "Mendukung"
-updates_channel_link_button: "Pembaruan"
+add_bot_to_group_button: "➕ Tambahkan Saya Ke Grup Anda ➕"
+support_chat_link_button: "Support"
+updates_channel_link_button: "Updates"
 notes_button: "Catatan"
-source_button: "Kode sumber"
-help_button: "Mendapatkan bantuan"
+source_button: "Kode Sumber"
+help_button: "Bantuan"
 back_button: "Kembali"
-about_button: "Tentang Ikhsan Robot"
-inline_button: "Mencoba inline!​​"
+about_button: "Tentang Ikhsan"
+inline_button: "Mencoba Inline!​​"
 
 # MODULES
 admin_help: |
@@ -101,21 +101,21 @@ admin_help: |
     ❂ /pinned*:* untuk mendapatkan pesan yang disematkan saat ini.
 
     *Perintah Berikut hanya Admin:*
-    ❂ /pin*:* secara diam-diam menyematkan pesan yang dibalas - tambahkan `'loud'` atau `'notify'` untuk memberikan notifikasi kepada pengguna
-    ❂ /unpin*:* melepas pin pada pesan yang saat ini disematkan
-    ❂ /invitelink*:* mendapat invitelink
-    ❂ /promote*:* mempromosikan pengguna membalas
-    ❂ /fullpromote*:* mempromosikan pengguna yang dibalas dengan hak penuh
-    ❂ /demote*:* menurunkan pengguna yang dibalas
-    ❂ /title <title here>*:* menetapkan judul khusus untuk admin yang dipromosikan bot
-    ❂ /admincache*:* paksa refresh daftar admin
-    ❂ /del*:* menghapus pesan yang Anda balas
-    ❂ /purge*:* menghapus semua pesan antara ini dan pesan yang dibalas.
-    ❂ /purge <integer X>*:* menghapus pesan yang dibalas, dan X pesan yang mengikutinya jika membalas pesan.
-    ❂ /setgtitle <text>*:* setel judul grup
-    ❂ /setgpic*:* membalas gambar untuk ditetapkan sebagai foto grup
-    ❂ /setdesc*:* Setel deskripsi grup
-    ❂ /setsticker*:* Setel stiker grup
+    ❂ /pin*:* Menyematkan Pesan Yang Dibalas - tambahkan `'loud'` atau `'notify'` Untuk Memberikan Notifikasi Kepada Pengguna.
+    ❂ /unpin*:* Melepas Pin Pada Pesan Yang Saat Ini Disematkan.
+    ❂ /invitelink*:* Mendapat Invitelink.
+    ❂ /promote*:* Mempromosikan Pengguna Sebagai Admin.
+    ❂ /fullpromote*:* Mempromosikan Pengguna Sebagai Admin Hak Penuh.
+    ❂ /demote*:* Menurunkan Pengguna Sebagai Admin.
+    ❂ /title <title here>*:* Menetapkan Nama Atau Tittle Khusus Admin.
+    ❂ /admincache*:* Refresh Daftar Admin.
+    ❂ /del*:* Menghapus Pesan Yang Anda Balas.
+    ❂ /purge*:* Menghapus Semua Pesan Antara Ini Dan Pesan Yang Dibalas.
+    ❂ /purge <integer X>*:* Menghapus Pesan Yang Dibalas, Dan X Pesan Yang Mengikutinya Jika Membalas Pesan.
+    ❂ /setgtitle <text>*:* Mengganti Nama Grup.
+    ❂ /setgpic*:* Membalas Gambar Untuk Ditetapkan Sebagai Foto Grup.
+    ❂ /setdesc*:* Setel Deskripsi Grup.
+    ❂ /setsticker*:* Setel Stiker Grup.
 
     *Aturan*:
     ❂ /rules*:* dapatkan aturan untuk obrolan ini.
@@ -460,17 +460,17 @@ fun_help: |
     ❂ /kill *:* Animasi Untuk Membunuh
 
     - Pengiriman
-    ❂ /pasangan - dapatkan pasangan hari ini
+    ❂ /pasangan - Dapatkan Pasangan Hari Ini
 
     - Berikut adalah bantuan untuk modul Styletext:
-    ❂ /weebify <text>: weebify teks Anda!
-    ❂ /bubble <text>: gelembung teks Anda!
-    ❂ /fbubble <text>: teks Anda penuh gelembung!
-    ❂ /persegi <teks>: kuadratkan teks Anda!
-    ❂ /fsquare <text>: kotak-isi teks Anda!
-    ❂ /blue <text>: bluify teks Anda!
-    ❂ /latin <text>: latinkan teks Anda!
-    ❂ /lined <text>: melapisi teks Anda!
+    ❂ /weebify <text>: Weebify Teks Anda!
+    ❂ /bubble <text>: gelembung teks anda!
+    ❂ /fbubble <text>: Teks Anda Penuh Gelembung!
+    ❂ /persegi <teks>: Kuadratkan Teks Anda!
+    ❂ /fsquare <text>: Kotak-isi Teks Anda!
+    ❂ /blue <text>: Bluify Teks Anda!
+    ❂ /latin <text>:  Latinkan Teks Anda!
+    ❂ /lined <text>: Melapisi Teks Anda!
 greetings_help: |
     ──「 Salam Pembuka 」──
 
@@ -599,14 +599,14 @@ logchannel_help: |
 logomarker_help: |
     ──「 Pembuat Logo 」──
 
-    Ini adalah menu bantuan untuk pembuat logo
+    Ini Adalah Menu Bantuan Untuk Pembuat Logo
     ❂ /logo <text/name> - Membuat logo dengan tampilan acak.
     ❂ /wlogo <text/name> - Buat logo dengan tampilan lebar saja.
 
     *Editor Gambar :*
     ❂ /edit <balas foto> - untuk mengedit gambar.
 musicplayer_help: |
-    ──「 Musikplayer 」──
+    ──「 Musik Player 」──
 
     Bantuan Musik dapat mengakses dengan perintah yang berbeda dan bantuan bantuan dan pengaturan dasbor dukungan.
     ❂ /mhelp - untuk bantuan modul musik
@@ -670,14 +670,14 @@ stickers_help: |
     ──「 Stiker 」──
 
     *Menu bantuan untuk alat stiker*
-    ❂ /stickerid*:* balas stiker ke saya untuk memberi tahu Anda ID file-nya.
-    ❂ /getsticker*:* balas stiker ke saya untuk mengunggah file PNG mentahnya.
-    ❂ /kang*:* membalas stiker untuk menambahkannya ke paket Anda.
-    ❂ /delsticker*:* Balas stiker anime yang ada ke paket Anda untuk menghapusnya.
-    ❂ /stickers*:* Temukan stiker untuk istilah tertentu di katalog stiker kombo
-    ❂ /tiny*:* Untuk membuat stiker kecil
-    ❂ /kamuii <1-8> *:* Untuk memperdalam stiker
-    ❂ /mmf <balas dengan teks>*:* Untuk menggambar teks untuk stiker atau pohots
+    ❂ /stickerid*:* Balas Stiker Ke Saya Untuk Memberi Tahu Anda ID File-nya.
+    ❂ /getsticker*:* Balas Stiker Ke Saya Untuk Mengunggah File PNG Mentahnya.
+    ❂ /kang*:* Balas Stiker Untuk Menambahkannya Ke Paket Stickers Anda.
+    ❂ /delsticker*:* Balas Stiker Yang Ada Ke Paket Anda Untuk Menghapusnya.
+    ❂ /stickers*:* Temukan Stiker Untuk Istilah Tertentu Di Katalog Stiker Kombo.
+    ❂ /tiny*:* Untuk Membuat Stiker Kecil.
+    ❂ /kamuii <1-8> *:* Untuk Memperdalam Stiker.
+    ❂ /mmf <balas dengan teks>*:* Untuk Menulis Teks Pada Sticker.
 tools_help: |
     ──「 Alat 」──
 
