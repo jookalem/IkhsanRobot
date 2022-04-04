@@ -8,11 +8,11 @@ from asyncio.exceptions import TimeoutError
 @register(pattern="^/sg ?(.*)")
 async def lastname(steal):
     steal.pattern_match.group(1)
-    puki = await steal.reply("```Retrieving Such User Information..```")
+    puki = await steal.reply("```Sedang Mencari History Nama Pengguna..```")
     if steal.fwd_from:
         return
     if not steal.reply_to_msg_id:
-        await puki.edit("```Please Reply To User Message.```")
+        await puki.edit("```Please Reply Pesan Pengguna.```")
         return
     message = await steal.get_reply_message()
     chat = "@SangMataInfo_bot"
@@ -55,7 +55,7 @@ async def lastname(steal):
                 conv.chat_id, [msg.id, r.id, response.id, respond.id]
             )
     except TimeoutError:
-        return await puki.edit("`I'm Sick Sorry...`")
+        return await puki.edit("`Saya Sedang Sakit, Mohon Maaf...`")
 
 
 
