@@ -10,7 +10,7 @@
       ],
     
    "logo":    "https://telegra.ph/file/566d0f3fb2107bd8ecb27.jpg",  
-   "repository": "https://github.com/shiinobu/https://github.com/shiinobu/SiestaRobot",
+   "repository": "https://github.com/jookalem/https://github.com/jookalem/IkhsanRobot",
    "addons": [
           {
          "options": {
@@ -69,7 +69,7 @@
       },
       "BOT_USERNAME": {
          "description": "username of your bot without the @",
-         "value": "siestaxbot"
+         "value": "IkhsanRobot"
       },
 
       "BOT_ID": {
@@ -84,7 +84,7 @@
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "machinaxsupport"
+         "value": "JoniSupport"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
