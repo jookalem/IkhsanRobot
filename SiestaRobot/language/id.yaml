@@ -397,9 +397,9 @@ FED_ADMIN_HELP: |
     ❂ `/joinfed <fed_id>`*:* Bergabung dengan obrolan saat ini ke Federasi. Hanya pemilik obrolan yang dapat melakukan ini. Setiap obrolan hanya bisa dalam satu Federasi
     ❂ `/leavefed <fed_id>`*:* Meninggalkan Federasi yang diberikan. Hanya pemilik obrolan yang dapat melakukan ini
     ❂ `/setfrules <rules>`*:* Menyusun aturan Federasi
-    ❂ `/ fedadmins`*:* Tampilkan admin Federasi
+    ❂ `/fedadmins`*:* Tampilkan admin Federasi
     ❂ `/fbanlist`*:* Menampilkan semua pengguna yang menjadi korban di Federasi saat ini
-    ❂ `/ fedchats`*:* Dapatkan semua obrolan yang terhubung di Federasi
+    ❂ `/fedchats`*:* Dapatkan semua obrolan yang terhubung di Federasi
     ❂ `/chatfed `*:* Lihat Federasi di obrolan saat ini\n
 FED_USER_HELP: | 
     ──「 Feds 」──
