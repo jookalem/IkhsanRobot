@@ -9,20 +9,21 @@ set_chat_lang: "Bagus, Menggunakan Bahasa {} Mulai Sekarang!"
 
 # PM Text
 pm_start_text: |
-  *Hai Friend, {} *
-  ✪ Saya adalah Robot Management [✨](https://telegra.ph/file/d1de44f61d3fd69392b22.jpg)
+  *👋🏻 ʜᴀɪ ᴛᴇᴍᴀɴ,* {}
+  ✪ *sᴀʏᴀ ᴀᴅᴀʟᴀʜ ʀᴏʙᴏᴛ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ* [⚡](https://telegra.ph/file/d1de44f61d3fd69392b22.jpg)
+  ✗ *ᴍᴀɪɴᴛᴇɴᴀɴᴄᴇ ʙʏ* : @ikhsanntarjo
 
-  ┏━━━━━━━━•❃°•°❀°•°❃•━━━━━━━━┓
-  × *Waktu Operasi Server :* `{}`
-  × `{}` *Pengguna, Di Seluruh* `{}` *Obrolan.*
-  ┗━━━━━━━━•❃°•°❀°•°❃•━━━━━━━━┛
+  ╭──── ⋅ ⋅ ────── ✩ ────── ⋅ ⋅ ────╮
+  × *ᴍᴜʟᴀɪ ᴀᴋᴛɪғ sᴇᴊᴀᴋ :* `{}`
+  × `{}` *ᴘᴇɴɢɢᴜɴᴀ, ᴅɪ sᴇʟᴜʀᴜʜ* `{}` *ᴏʙʀᴏʟᴀɴ.*
+  ╰──── ⋅ ⋅ ────── ✩ ────── ⋅ ⋅ ────╯
 
-  ✪ Tekan /help Untuk Melihat Perintah Yang Tersedia.
+  ✪ *ᴛᴇᴋᴀɴ* /help *ᴜɴᴛᴜᴋ ᴍᴇʟɪʜᴀᴛ ᴘᴇʀɪɴᴛᴀʜ ʏᴀɴɢ ᴛᴇʀsᴇᴅɪᴀ.*
    
 group_start_text: |
-  *👋🏻 Hai Sayang, aku Robot Ikhsan!* 
+  *👋🏻 ʜᴀɪ ᴛᴇᴍᴀɴ, ᴀᴋᴜ ɪᴋʜsᴀɴ ʀᴏʙᴏᴛ!* 
   
-  *Mulai aktif sejak :* `{}`
+  *ᴍᴜʟᴀɪ ᴀᴋᴛɪғ sᴇᴊᴀᴋ :* `{}`
 
 pm_about_text: |
   ✺ Hai Friend Saya *Ikhsan Robot*, Bot Management Grup, Yang Dibuat Untuk Membantu Anda Mengelola Grup Anda Dengan Mudah. ✺
@@ -39,13 +40,15 @@ pm_about_text: |
 pm_about_admin_text: |
   *✺ Mari Buat Grup Anda Efektif Sekarang ✺*
 
-  Selamat, Robot Ikhsan Sekarang Siap Untuk Mengelola Grup Anda.
+  Ikhsan Robot Sekarang Siap Untuk Mengelola Grup Anda.
 
   *Alat Admin*
+
   Alat Admin Dasar Membantu Anda Melindungi Dan Memperkuat Grup Anda.
   Anda Dapat Mencekal Anggota, Menendang Anggota, Mempromosikan Seseorang Sebagai Admin Melalui Perintah Bot.
 
   *Salam*
+
   Mari Kita Atur Pesan Selamat Datang Untuk Menyambut Pengguna Baru Yang Datang Ke Grup Anda.
   Send `/setwelcome [message]` Untuk Menyetel Pesan Selamat Datang!
 pm_about_notes_text: |
@@ -69,7 +72,7 @@ pm_help_module_text: "Berikut Adalah Bantuan Untuk Modul *{}* :\n\n"
 group_help_text: "Hubungi Saya Di PM Untuk Mendapatkan Daftar Perintah."
 group_help_modules_text: "Hubungi Saya Di PM Untuk Mendapatkan Bantuan *{}*"
 # Group Help Button
-group_help_button: "Bantuan"
+group_help_button: "ʙᴀɴᴛᴜᴀɴ"
 # PM Settings
 pm_settings_personal_text: "Ini Adalah Pengaturan Anda Saat Ini: "
 pm_settings_group_text: "Modul Mana Yang Ingin Anda Periksa Setelan {} ?"
@@ -79,18 +82,18 @@ pm_settings_groupss_text: |
 # Group Settings Text
 group_settings_text: "Klik Di Sini Untuk Mendapatkan Pengaturan Obrolan Ini, Serta Pengaturan Anda."
 # Group Settings Button
-group_settings_button: "Pengaturan"
+group_settings_button: "ᴘᴇɴɢᴀᴛᴜʀᴀɴ"
 
 # PM Button
-add_bot_to_group_button: "➕ Tambahkan Saya Ke Grup Anda ➕"
-support_chat_link_button: "Support"
-updates_channel_link_button: "Updates"
-notes_button: "Catatan"
-source_button: "Kode Sumber"
-help_button: "Bantuan"
-back_button: "Kembali"
-about_button: "Tentang Ikhsan"
-inline_button: "Mencoba Inline!​​"
+add_bot_to_group_button: "｢ᴛᴀᴍʙᴀʜᴋᴀɴ sᴀʏᴀ ᴋᴇ ɢʀᴜᴘ ᴀɴᴅᴀ｣"
+support_chat_link_button: "sᴜᴘᴘᴏʀᴛ"
+updates_channel_link_button: "ᴜᴘᴅᴀᴛᴇs"
+notes_button: "ᴄᴀᴛᴀᴛᴀɴ"
+source_button: "ᴋᴏᴅᴇ sᴜᴍʙᴇʀ"
+help_button: "ʙᴀɴᴛᴜᴀɴ"
+back_button: "ᴋᴇᴍʙᴀʟɪ"
+about_button: "ᴛᴇɴᴛᴀɴɢ ɪᴋʜsᴀɴ"
+inline_button: "ᴍᴇɴᴄᴏʙᴀ ɪɴʟɪɴᴇ!​​"
 
 # MODULES
 admin_help: |
@@ -608,11 +611,19 @@ logomarker_help: |
 musicplayer_help: |
     ──「 Musik Player 」──
 
-    Bantuan Musik dapat mengakses dengan perintah yang berbeda dan bantuan bantuan dan pengaturan dasbor dukungan.
-    ❂ /mhelp - untuk bantuan modul musik
-    ❂ /msettings - untuk mengatur modul musik
+    *Bantuan Untuk Music Player.*
 
-    CATATAN : JANGAN SPAMMING DI REQUEST LAGU ATAU VIDEO...
+    ❂ /play (Judul/Link) - Untuk Memutar Music/Video 
+    ❂ /end - Untuk Menghentikan Music/Video.
+    ❂ /resume - Untuk Melanjutkan Pemutaran Music/Video Yang Di Jeda.
+    ❂ /pause - Untuk Menjeda Music/Video.
+    ❂ /skip - Untuk Memutar Streaming Berikutnya Yang Ada Didalam Antrian.
+    ❂ /queue - Untuk Melihat Daftar Putar Lagu.
+    ❂ /song (Judul) - Untuk Mendownload Music/Video Youtube.
+    ❂ /setinggs - Untuk Mengatur Kualitas Music/Video.
+    ❂ /bug (alasan) - Untuk Melaporkan Masalah Pada Bot.
+
+    *CATATAN :* JANGAN SPAM REQUEST NGENTOT!!
 notes_help: |
     ──「 Catatan 」──
 
@@ -807,8 +818,8 @@ demote_callback_success: "Admin {} Turunkan {}!"
 demote_callback_answer: "Diturunkan!"
 demote_callback_error: "Pengguna Ini Tidak Dipromosikan Atau Telah Meninggalkan Grup!" 
 # Admin.py Variabel Button
-demote_button: "Turunkan"
-pin_button: "👉 Buka pesan"
+demote_button: "ᴛᴜʀᴜɴᴋᴀɴ"
+pin_button: "ʙᴜᴋᴀ ᴘᴇsᴀɴ"
 
 # Afk.py Variabel
 reason_len: "\nAlasan Afk Anda Dipersingkat Menjadi 100 Karakter."
