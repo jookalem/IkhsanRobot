@@ -9,23 +9,24 @@ set_chat_lang: "Great, using {} Language it is from now on!"
 
 # PM Text
 pm_start_text: |
-  *Hey Darling, {} *
-  ✪ I'm Management Robot [✨](https://telegra.ph/file/d1de44f61d3fd69392b22.jpg)
+  *👋 ʜᴇʏ ғʀɪᴇɴᴅ,* {} 
+  ✪ *ɪ'ᴍ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʀᴏʙᴏᴛ* [⚡](https://telegra.ph/file/d1de44f61d3fd69392b22.jpg)
+  ✗ *ᴍᴀɪɴᴛᴇɴᴀɴᴄᴇ ʙʏ* : @ikhsanntarjo
 
-  ┏━━━━━━━━•❃°•°❀°•°❃•━━━━━━━━┓
-  × *Server Uptime :* `{}`
-  × `{}` *users, across* `{}` *chats.*
-  ┗━━━━━━━━•❃°•°❀°•°❃•━━━━━━━━┛
+  ╭──── ⋅ ⋅ ────── ✩ ────── ⋅ ⋅ ────╮
+  × *sᴇʀᴠᴇʀ ᴜᴘᴛɪᴍᴇ :* `{}`
+  × `{}` *ᴜsᴇʀs, ᴀᴄʀᴏss* `{}` *ᴄʜᴀᴛs*
+  ╰──── ⋅ ⋅ ────── ✩ ────── ⋅ ⋅ ────╯
 
-  ✪ Hit /help to see my available commands.
+  ✪ *ʜɪᴛ* /help *ᴛᴏ sᴇᴇ ᴍʏ ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs.*
    
 group_start_text: |
-  *👋🏻 Hi Darling, I'm Robot Ikhsan!*
+  *👋🏻 ʜᴇʏ ғʀɪᴇɴᴅ, ɪ'ᴍ ɪᴋʜsᴀɴ ʀᴏʙᴏᴛ!*
   
-  *Started active since :* `{}`
+  *sᴇʀᴠᴇʀ ᴜᴘᴛɪᴍᴇ :* `{}`
 
 pm_about_text: |
-  ✺ Hey Darling I'm *Robot Ikhsan*, A Powerful Group Management Bot Built To Help You Manage Your Group Easily. ✺
+  ✺ Hey Darling I'm *Ikhsan Robot*, A Powerful Group Management Bot Built To Help You Manage Your Group Easily. ✺
 
   ✪ I can restrict users.
   ✪ I can greet users with customizable welcome messages and even set a group's rules.
@@ -35,17 +36,19 @@ pm_about_text: |
   ✪ I check for admins' permissions before executing any command and more stuffs
 
   _Ikhsan's licensed under the GNU General Public License v3.0_
-  Click on button bellow to get basic help for Robot Ikhsan.
+  Click on button bellow to get basic help for *Ikhsan Robot.*
 pm_about_admin_text: |
   *✺ Let's make your group bit effective now ✺*
 
-  Congragulations, Robot Ikhsan now ready to manage your group.
+  *Ikhsan Robot* now ready to manage your group.
 
   *Admin Tools*
+
   Basic Admin tools help you to protect and powerup your group.
   You can ban members, Kick members, Promote someone as admin through commands of bot.
 
   *Greetings*
+
   Lets set a welcome message to welcome new users coming to your group.
   Send `/setwelcome [message]` to set a welcome message!
 pm_about_notes_text: |
@@ -69,7 +72,7 @@ pm_help_module_text: "Here is the help for the *{}* module :\n\n"
 group_help_text: "Contact me in PM to get the list of possible commands."
 group_help_modules_text: "Contact me in PM to get help of *{}*"
 # Group Help Button
-group_help_button: "Help"
+group_help_button: "ʜᴇʟᴘ"
 # PM Settings
 pm_settings_personal_text: "These are your current settings: "
 pm_settings_group_text: "Which module would you like to check {}'s settings for?"
@@ -79,28 +82,30 @@ pm_settings_groupss_text: |
 # Group Settings Text
 group_settings_text: "Click here to get this chat's settings, as well as yours."
 # Group Settings Button
-group_settings_button: "Settings"
+group_settings_button: "sᴇᴛᴛɪɴɢs"
 
 # PM Button
-add_bot_to_group_button: "➕ Add Me To Your Group ➕"
-support_chat_link_button: "Support"
-updates_channel_link_button: "Update"
-notes_button: "Notes"
-source_button: "Source Code"
-help_button: "Help"
-back_button: "Back"
-about_button: "About Ikhsan"
-inline_button: "Try Inline!​​"
+add_bot_to_group_button: "｢ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ｣"
+support_chat_link_button: "sᴜᴘᴘᴏʀᴛ"
+updates_channel_link_button: "ᴜᴘᴅᴀᴛᴇ"
+notes_button: "ɴᴏᴛᴇs"
+source_button: "sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ"
+help_button: "ʜᴇʟᴘ"
+back_button: "ʙᴀᴄᴋ"
+about_button: "ᴀʙᴏᴜᴛ ɪᴋʜsᴀɴ"
+inline_button: "ᴛʀʏ ɪɴʟɪɴᴇ!​​"
 
 # MODULES
 admin_help: |
     ──「 Admins 」──
 
     *User Commands*:
+
     ❂ /admins*:* list of admins in the chat
     ❂ /pinned*:* to get the current pinned message.
 
-    *The Following Commands are Admins only:* 
+    *The Following Commands are Admins only:*
+
     ❂ /pin*:* silently pins the message replied to - add `'loud'` or `'notify'` to give notifs to users
     ❂ /unpin*:* unpins the currently pinned message
     ❂ /invitelink*:* gets invitelink
@@ -608,9 +613,17 @@ logomarker_help: |
 musicplayer_help: |
     ──「 Musicplayer 」──
 
-    Help Music can access with different command and support dashboard help and setting.
-    ❂ /mhelp - for help music module
-    ❂ /msettings - for setting music module
+    *Bantuan Untuk Music Player.*
+
+    ❂ /play (Judul/Link) - Untuk Memutar Music/Video 
+    ❂ /end - Untuk Menghentikan Music/Video.
+    ❂ /resume - Untuk Melanjutkan Pemutaran Music/Video Yang Di Jeda.
+    ❂ /pause - Untuk Menjeda Music/Video.
+    ❂ /skip - Untuk Memutar Streaming Berikutnya Yang Ada Didalam Antrian.
+    ❂ /queue - Untuk Melihat Daftar Putar Lagu.
+    ❂ /song (Judul) - Untuk Mendownload Music/Video Youtube.
+    ❂ /setinggs - Untuk Mengatur Kualitas Music/Video.
+    ❂ /bug (alasan) - Untuk Melaporkan Masalah Pada Bot.
 
     NOTE : DON'T SPAMMING AT REQUEST SONG OR VIDEO...
 notes_help: |
@@ -807,8 +820,8 @@ demote_callback_success: "Admin {} Demoted {}!"
 demote_callback_answer: "Demoted!"
 demote_callback_error: "This user is not promoted or has left the group!" 
 # Admin.py Variabel Button
-demote_button: "Demote"
-pin_button: "👉 Go to message"
+demote_button: "ᴅᴇᴍᴏᴛᴇ"
+pin_button: "ɢᴏ ᴛᴏ ᴍᴇssᴀɢᴇ"
 
 # Afk.py Variabel
 reason_len: "\nYour afk reason was shortened to 100 characters."
