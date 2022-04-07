@@ -4,8 +4,8 @@ language: "ɪɴᴅᴏɴᴇsɪᴀ 🇮🇩"
 authors: "@saint_foire"
 
 # languages
-curr_chat_lang: "Hai. Bahasa Anda Saat Ini Adalah {}, Pilih Yang Anda Inginkan Dari Tombol Di Bawah :)"
-set_chat_lang: "Bagus, Menggunakan Bahasa {} Mulai Sekarang!"
+curr_chat_lang: "ʜᴀɪ. ʙᴀʜᴀsᴀ ᴀɴᴅᴀ sᴀᴀᴛ ɪɴɪ ᴀᴅᴀʟᴀʜ *{}*, ᴘɪʟɪʜ ʙᴀʜᴀsᴀ ʏᴀɴɢ ᴀɴᴅᴀ ɪɴɢɪɴᴋᴀɴ ᴅᴀʀɪ ᴛᴏᴍʙᴏʟ ᴅɪ ʙᴀᴡᴀʜ :)"
+set_chat_lang: "ʙᴀɢᴜs, ᴍᴇɴɢɢᴜɴᴀᴋᴀɴ ʙᴀʜᴀsᴀ *{}* ᴍᴜʟᴀɪ sᴇᴋᴀʀᴀɴɢ!"
 
 # PM Text
 pm_start_text: |
