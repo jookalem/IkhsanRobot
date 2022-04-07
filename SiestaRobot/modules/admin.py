@@ -309,7 +309,7 @@ def fullpromote(update: Update, context: CallbackContext) -> str:
 
     keyboard = InlineKeyboardMarkup([[
         InlineKeyboardButton(
-            "Demote", callback_data="demote_({})".format(user_member.user.id))
+            "ᴅᴇᴍᴏᴛᴇ", callback_data="demote_({})".format(user_member.user.id))
     ]])
 
     bot.sendMessage(
@@ -524,7 +524,7 @@ def pin(update: Update, context: CallbackContext) -> str:
                     [
                         [
                             InlineKeyboardButton(
-                                "👉 Go to message", url=f"{message_link}")
+                                "ɢᴏ ᴛᴏ ᴍᴇssᴀɢᴇ", url=f"{message_link}")
                         ]
                     ]
                 ), 
@@ -637,7 +637,7 @@ def pinned(update: Update, context: CallbackContext) -> str:
             parse_mode=ParseMode.HTML,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
-                [[InlineKeyboardButton(text="👉 Go to message", url=f"https://t.me/{link_chat_id}/{pinned_id}")]]
+                [[InlineKeyboardButton(text="ɢᴏ ᴛᴏ ᴍᴇssᴀɢᴇ", url=f"https://t.me/{link_chat_id}/{pinned_id}")]]
             ),
         )
 
