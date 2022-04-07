@@ -382,12 +382,12 @@ def siesta_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="Admins", callback_data="siesta_admin"),
+                        InlineKeyboardButton(text="ᴀᴅᴍɪɴs", callback_data="siesta_admin"),
                         InlineKeyboardButton(text=gs(chat.id, "notes_button"), callback_data="siesta_notes"),
                     ],
                     [
                         InlineKeyboardButton(text=gs(chat.id, "support_chat_link_button"), callback_data="siesta_support"),
-                        InlineKeyboardButton(text="Credits", callback_data="siesta_credit"),
+                        InlineKeyboardButton(text="ᴄʀᴇᴅɪᴛs", callback_data="siesta_credit"),
                     ],
                     [
                         InlineKeyboardButton(text=gs(chat.id, "source_button"), url="https://github.com/jookalem"),
@@ -477,7 +477,7 @@ def siesta_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="Ikhsan", url="https://github.com/jookalem"),
+                        InlineKeyboardButton(text="ɪᴋʜsᴀɴ", url="https://github.com/jookalem"),
                     ],
                     [
                         InlineKeyboardButton(text=gs(chat.id, "back_button"), callback_data="siesta_"),
@@ -765,8 +765,8 @@ def donate(update: Update, context: CallbackContext):
 
         if OWNER_ID != 860951678:
             update.effective_message.reply_text(
-                "I'm free for everyone ❤️ If you wanna make me smile, just join"
-                "[My Channel]({})".format(DONATION_LINK),
+                "ɪ'ᴍ ғʀᴇᴇ ғᴏʀ ᴇᴠᴇʀʏᴏɴᴇ ❤️ ɪғ ʏᴏᴜ ᴡᴀɴɴᴀ ᴍᴀᴋᴇ ᴍᴇ sᴍɪʟᴇ, ᴊᴜsᴛ ᴊᴏɪɴ"
+                "[ᴍʏ ᴄʜᴀɴɴᴇʟ]({})".format(DONATION_LINK),
                 parse_mode=ParseMode.MARKDOWN,
             )
     else:
@@ -812,7 +812,7 @@ def main():
         try:
             dispatcher.bot.sendMessage(
                 f"@{SUPPORT_CHAT}", 
-                f"""**Yes Darling ❤️, i am activated!**""",
+                f"""**ʏᴇs ʙᴀʙʏ, ɪ'ᴍ ᴀᴄᴛɪᴠᴀᴛᴇᴅ 🔥!**""",
                 parse_mode=ParseMode.MARKDOWN
             )
         except Unauthorized:
