@@ -257,7 +257,7 @@ def info(update: Update, context: CallbackContext):
     rep = message.reply_text("<code>Getting info...</code>", parse_mode=ParseMode.HTML)
 
     text = (
-        f"╔═━「<b> Appraisal results:</b> 」\n"
+        f"╔═━「<b> Appraisal Results:</b> 」\n"
         f"✪ ID: <code>{user.id}</code>\n"
         f"✪ First Name: {html.escape(user.first_name)}"
     )
@@ -318,8 +318,8 @@ def info(update: Update, context: CallbackContext):
     elif user.id in WOLVES:
         text += "\n\nThe Disaster level of this person is 'Soldier'."
         disaster_level_present = True
-    elif user.id == 1829047705:
-         text += "\n\nOwner Of A Bot. Queen Of @excrybaby. Bot Name Inspired From 'JoJo'."
+    elif user.id == 860951678:
+         text += "\n\nOwner Of A Bot. King Of @ikhsanntarjo."
          disaster_level_present = True
 
     try:
@@ -356,9 +356,9 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "Health", url="https://t.me/KennedyProject/44"),
+                                "ʜᴇᴀʟᴛʜ", url="https://t.me/KennedyProject/44"),
                             InlineKeyboardButton(
-                                "Disaster", url="https://t.me/KennedyProject/43")
+                                "ᴅɪsᴀsᴛᴇʀ", url="https://t.me/KennedyProject/43")
                         ],
                     ]
                 ),
@@ -374,9 +374,9 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "Health", url="https://t.me/KennedyProject/44"),
+                                "ʜᴇᴀʟᴛʜ", url="https://t.me/KennedyProject/44"),
                             InlineKeyboardButton(
-                                "Disaster", url="https://t.me/KennedyProject/43")
+                                "ᴅɪsᴀsᴛᴇʀ", url="https://t.me/KennedyProject/43")
                         ],
                     ]
                 ),
@@ -448,9 +448,9 @@ def set_about_me(update: Update, context: CallbackContext):
 
 @sudo_plus
 def stats(update: Update, context: CallbackContext):
-    stats = "<b>╔═━「 Current Siesta Statistics 」</b>\n" + "\n".join([mod.__stats__() for mod in STATS])
+    stats = "<b>╔═━「 ᴄᴜʀʀᴇɴᴛ ɪᴋʜsᴀɴ sᴛᴀᴛɪsᴛɪᴄs 」</b>\n" + "\n".join([mod.__stats__() for mod in STATS])
     result = re.sub(r"(\d+)", r"<code>\1</code>", stats)
-    result += "\n<b>╘═━「 Powered By Shiinobu 」</b>"
+    result += "\n<b>╘═━「 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɪᴋʜsᴀɴ 」</b>"
     update.effective_message.reply_text(
         result,
         parse_mode=ParseMode.HTML, 
