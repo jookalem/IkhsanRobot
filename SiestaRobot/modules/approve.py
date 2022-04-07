@@ -145,13 +145,13 @@ def unapproveall(update: Update, context: CallbackContext):
             [
                 [
                     InlineKeyboardButton(
-                        text="Unapprove all users",
+                        text="ᴜɴᴀᴘᴘʀᴏᴠᴇ ᴀʟʟ ᴜsᴇʀs",
                         callback_data="unapproveall_user",
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        text="Cancel",
+                        text="ᴄᴀɴᴄᴇʟ",
                         callback_data="unapproveall_cancel",
                     ),
                 ],
