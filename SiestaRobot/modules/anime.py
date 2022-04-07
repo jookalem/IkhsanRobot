@@ -180,7 +180,7 @@ def airing(update: Update, context: CallbackContext):
         time = t(time)
         msg += f"\n*Episode*: `{response['nextAiringEpisode']['episode']}`\n*Airing In*: `{time}`"
     else:
-        buttons = [[InlineKeyboardButton("More Info", url=info)]]
+        buttons = [[InlineKeyboardButton("ᴍᴏʀᴇ ɪɴғᴏ", url=info)]]
         msg += f"\n*Episode*: `{response['episodes']}`\n*Status*: `N/A`"
     update.effective_message.reply_photo(
         photo=image,
@@ -230,11 +230,11 @@ def anime(update: Update, context: CallbackContext):
         image = json.get('bannerImage', None)
         if trailer:
             buttons = [[
-                InlineKeyboardButton("More Info", url=info),
-                InlineKeyboardButton("Trailer 🎬", url=trailer)
+                InlineKeyboardButton("ᴍᴏʀᴇ ɪɴғᴏ", url=info),
+                InlineKeyboardButton("ᴛʀᴀɪʟᴇʀ 🎬", url=trailer)
             ]]
         else:
-            buttons = [[InlineKeyboardButton("More Info", url=info)]]
+            buttons = [[InlineKeyboardButton("ᴍᴏʀᴇ ɪɴғᴏ", url=info)]]
         if image:
             try:
                 update.effective_message.reply_photo(
@@ -330,7 +330,7 @@ def manga(update: Update, context: CallbackContext):
             msg += f"{x}, "
         msg = msg[:-2]
         info = json['siteUrl']
-        buttons = [[InlineKeyboardButton("More Info", url=info)]]
+        buttons = [[InlineKeyboardButton("ᴍᴏʀᴇ ɪɴғᴏ", url=info)]]
         image = json.get("bannerImage", False)
         msg += f"_{json.get('description', None)}_"
         if image:
@@ -531,7 +531,7 @@ def site_search(update: Update, context: CallbackContext, site: str):
             post_name = html.escape(entry.text.strip())
             result += f"• <a href='{post_link}'>{post_name}</a>\n"
 
-    buttons = [[InlineKeyboardButton("See all results", url=search_url)]]
+    buttons = [[InlineKeyboardButton("sᴇᴇ ᴀʟʟ ʀᴇsᴜʟᴛs", url=search_url)]]
 
     if more_results:
         message.reply_text(
